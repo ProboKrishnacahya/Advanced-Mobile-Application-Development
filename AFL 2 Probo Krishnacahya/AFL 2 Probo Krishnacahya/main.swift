@@ -7,5 +7,9 @@
 
 import Foundation
 
-print("Hello, World!")
+// Welcome Page
+print("==========================")
+print("   Point of Sales (PoS)   ")
+print("==========================")
+
 
